@@ -13,7 +13,7 @@
 
 ## Como entrar em contato comigo</br>
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](http://biganalytic.wordpress.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anderson-ernesto/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-ernesto/)
 
 
 <p align="center">
@@ -31,7 +31,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
-  <a href="www.linkedin.com/in/anderson-ernesto/" target="_blank" style='margin-right:10px'>
+  <a href="https://www.linkedin.com/in/anderson-ernesto/" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
