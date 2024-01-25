@@ -1,26 +1,10 @@
-##  Olá! Me chamo Anderson Ernesto 👋
-
-### Futuro desenvolvedor Full-Stack. 
-
-### Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio; 
-
-### Estou aprendendo tanto Front-end quanto Back-end, no entanto, meu foco é trabalhar com a linguagem Java e Spring Boot no desenvolvimento web;
-### Inclusive estou em transição de carreira, sou graduado em Engenharia Elétrica pela Universidade de Uberaba;
-
-### Moro no ABC Paulista;
-
-#####################################################################
-
-## Como entrar em contato comigo</br>
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](http://biganalytic.wordpress.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-ernesto/)
-
-
-<p align="center">
-  <a href="https://.com">
-    <img width="100" src="https://github.com/franze-ernesto" alt="logo" />
-  </a>
+<p align="left" >
+<a href="https://github.com/franze-ernesto">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franze-ernesto&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=franze-ernesto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </p>
+
+##  Olá! Me chamo Anderson Ernesto 👋
 
 <p align="center" style="margin: -20px 0 30px">
    <a href="https://twitter.com/" target="_blank" style='margin-right:10px'>
@@ -29,6 +13,7 @@
   &nbsp;&nbsp;
   <a href="https://stackoverflow.com" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" />
+     <a href=" target="_blank" style='margin-right:10px'>    
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/anderson-ernesto/" target="_blank" style='margin-right:10px'>
@@ -41,7 +26,17 @@
 </p>
 
 
-#####################################################################
+### Futuro desenvolvedor Full-Stack. 
+
+### Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio; 
+
+### Estou aprendendo tanto Front-end quanto Back-end, no entanto, meu foco é trabalhar com a linguagem Java e Spring Boot no desenvolvimento web;
+### Inclusive estou em transição de carreira, sou graduado em Engenharia Elétrica pela Universidade de Uberaba;
+
+### Moro no ABC Paulista;
+
+####
+####
 
 ### Linguagens que eu uso no meu dia
 
@@ -58,19 +53,7 @@
 
     
 
-   
 
-
-#####################################################################
-
-
-
-
-<div>
-<a href="https://github.com/franze-ernesto">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franze-ernesto&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=franze-ernesto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
     
     
 </div></br>
@@ -89,33 +72,13 @@
 
 
 
-
-
-
-
-
-
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franze-ernesto&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br />
-  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
-  <br />
-  <br />
-</div>
-
 A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles. 
 
 <br />
 
-#### 📖 &nbsp;&nbsp;[.com](https://.com): Last 5 articles
- 
-* [👋 Say Goodbye to Spread Operator: Use Default Composer](https://com/blog/default-composer) 
-* [Creating Scalable and Reusable React Components](https://.com/blog/creating-scalable-and-reusable-react-components) 
-* [🏝️ i18n translations in Next.js 13's app-dir for server/client components 🌊](https://.com/blog/i18n-translations-nextjs-13-app-dir) 
-* [Teaful DevTools Released!](https://.com/blog/teaful-devtools) 
-* [Teaful: tiny, easy and powerful React state management](https://.com/blog/teaful)
 
-<br />
+
+
 
 
 
