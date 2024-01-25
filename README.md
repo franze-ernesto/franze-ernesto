@@ -1,19 +1,19 @@
 ##  Olá! Me chamo Anderson Ernesto 👋
 
-### I'm a Full-Stack developer who likes to work with JavaScript/Typescript (Preact, Next.js, TensorFlow.js, Node, Deno) Rust, Python among others. 
+### Futuro desenvolvedor Full-Stack. 
 
 ### Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio; 
 
 ### Estou aprendendo tanto Front-end quanto Back-end, no entanto, meu foco é trabalhar com a linguagem Java e Spring Boot no desenvolvimento web;
-### Inclusive estou em transição de carreira, acredito que seja legal citar também. Sou graduado em Engenharia Elétrica pela Universidade de Uberaba;
-### Conhecimentos adquiridos;
+### Inclusive estou em transição de carreira, sou graduado em Engenharia Elétrica pela Universidade de Uberaba;
+
 ### Moro no ABC Paulista;
 
 #####################################################################
 
-## <br>Como entrar em contato comigo</br>
+## Como entrar em contato comigo</br>
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](http://biganalytic.wordpress.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-ernesto/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anderson-ernesto/)
 
 
 <p align="center">
@@ -75,17 +75,15 @@
     
 </div></br>
 
-### Apaixonado por tecnologia, automação e cálculos
 
-#### 🧡 &nbsp;&nbsp;My passions
+#### 🧡 &nbsp;&nbsp;Minhas paixões
 
-* Technology and software
-* Science 
-* Machine learning ([my articles about it](https://.com/blog?q=machine-learning))
-* Books ([goodreads](https://www.goodreads.com/user/show/))
-* Parkour ([instagram](https://www.instagram.com/), [youtube](http://youtube.com))
-* Nutrition
-* Nature
+* Tecnologia e software
+* Ciência 
+* Ilustração
+* Livros
+* Corrida
+* Natureza
 
 <br />
 
