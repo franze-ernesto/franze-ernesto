@@ -31,7 +31,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/anderson-ernesto/" target="_blank" style='margin-right:10px'>
+  <a href="www.linkedin.com/in/anderson-ernesto/" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
