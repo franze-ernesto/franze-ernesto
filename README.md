@@ -21,11 +21,9 @@
 </p>
 
 
-### Futuro desenvolvedor Full-Stack. 
+### . 
 
-### Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Estácio; 
-
-### Estou aprendendo tanto Front-end quanto Back-end, no entanto, meu foco é trabalhar com a linguagem Java e Spring Boot no desenvolvimento web;
+### Meu foco é Back-end tendo Java como principal linguagem.;
 
 ### Moro no ABC Paulista;</br></br>
 
