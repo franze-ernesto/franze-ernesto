@@ -25,7 +25,6 @@
 
 ### Meu foco é Back-end tendo Java como principal linguagem.;
 
-### Moro no ABC Paulista;</br></br>
 
 <p align="left" >
 <a href="https://github.com/franze-ernesto">
