@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Me chamo Anderson Ernesto 👋</h1>
 
 <p align="center">
-  Engenheiro Eletricista migrando para o mundo do desenvolvimento de software. Atualmente focado em <strong>Back-end com Java</strong>, explorando as boas práticas de desenvolvimento como <em>SOLID</em> e <em>Clean Architecture</em>.
+  Sou desenvolvedor Java, focado em <strong>Back-end</strong>, explorando as boas práticas de desenvolvimento como <em>SOLID</em> e <em>Clean Architecture</em>.
 </p>
 
 <p align="center">
@@ -20,23 +20,27 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou formado em Engenharia Elétrica, mas encontrei minha paixão no desenvolvimento de software. Desde então, venho estudando intensamente para me tornar um desenvolvedor back-end sólido, com foco em Java e nas boas práticas de desenvolvimento.
+Sou bacharel em Engenharia Elétrica, e encontrei minha verdadeira paixão no desenvolvimento de software. A formação em engenharia me deu uma base sólida em lógica, resolução de problemas e pensamento sistêmico — habilidades que aplico diariamente como desenvolvedor Java focado em back-end.
 
-🧩 **Transição de carreira**  
-📚 **Estudos na plataforma Alura**  
-🛠️ **Projetos práticos com foco em APIs RESTful**
+🧩 **Atento à qualidade de código e organização**  
+📚 **Estudo contínuo com foco em boas práticas**  
+🛠️ **Experiência prática com projetos pessoais**
+💡 **Curioso e sempre buscando aprender novas ferramentas**
+🤝 **Aberto a feedbacks para melhorar constantemente**
 
 ---
 
 ## 📚 Conhecimentos
 
-- **Java com orientação a objetos**
-- **Spring Boot e Maven**
-- **Criação de APIs RESTful com CRUD**
+- **Java**
+- **Spring Boot**
+- **Maven**
+- **APIs RESTful**
 - **Integração de Swagger para documentação**
 - **Versionamento com Git e GitHub**
 - **Containers com Docker**
 - **Conceitos de SOLID e Clean Architecture**
+  
 
 ---
 
@@ -58,8 +62,8 @@ Sou formado em Engenharia Elétrica, mas encontrei minha paixão no desenvolvime
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [API de Cadastro](https://github.com/franze-ernesto/NOME-DO-REPOSITORIO) | API RESTful com CRUD, documentação Swagger, boas práticas de arquitetura | Java, Spring Boot, Maven, MySQL, Swagger |
-| [Outro Projeto](https://github.com/franze-ernesto/NOME-DO-REPOSITORIO) | Descrição do projeto | Tecnologias usadas |
+| [API de Cadastro VollMed](https://github.com/franze-ernesto/NOME-DO-REPOSITORIO) | API RESTful com CRUD, documentação Swagger, boas práticas de arquitetura | Java, Spring Boot, Maven, MySQL, Swagger |
+
 
 *Pretendo continuar desenvolvendo projetos com boas práticas e testes automatizados.*
 
@@ -72,6 +76,14 @@ Sou formado em Engenharia Elétrica, mas encontrei minha paixão no desenvolvime
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franze-ernesto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+---
+
+## 📘 Estudos e Materiais de Referência
+
+- Cursos realizados na [Alura](https://www.alura.com.br) com foco em Java, Spring Boot, Docker, Git, e boas práticas.
+- Leitura de livros técnicos como:
+  - *Use a Cabeça! Java* – Kathy Sierra & Bert Bates
+  - *Java: Crie Softwares Completos de Forma Rápida e Prática* – Editora Cursa Online Courses
 ---
 
 ## ❤️ Interesses Pessoais
