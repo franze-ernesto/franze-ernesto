@@ -62,7 +62,7 @@ Sou bacharel em Engenharia Elétrica, e encontrei minha verdadeira paixão no de
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [API de Cadastro VollMed](https://github.com/franze-ernesto/NOME-DO-REPOSITORIO](https://github.com/franze-ernesto/vollmed) | API RESTful com CRUD, documentação Swagger, boas práticas de arquitetura | Java, Spring Boot, Maven, MySQL, Swagger |
+| [API de Cadastro VollMed](https://github.com/franze-ernesto/vollmed) | API RESTful com CRUD, documentação Swagger, boas práticas de arquitetura | Java, Spring Boot, Maven, MySQL, Swagger |
 
 
 *Pretendo continuar desenvolvendo projetos com boas práticas e testes automatizados.*
