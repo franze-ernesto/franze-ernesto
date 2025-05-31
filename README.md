@@ -23,9 +23,13 @@
 Sou bacharel em Engenharia Elétrica, e encontrei minha verdadeira paixão no desenvolvimento de software. A formação em engenharia me deu uma base sólida em lógica, resolução de problemas e pensamento sistêmico — habilidades que aplico diariamente como desenvolvedor Java focado em back-end.
 
 🧩 **Atento à qualidade de código e organização**  
+
 📚 **Estudo contínuo com foco em boas práticas**  
+
 🛠️ **Experiência prática com projetos pessoais**
+
 💡 **Curioso e sempre buscando aprender novas ferramentas**
+
 🤝 **Aberto a feedbacks para melhorar constantemente**
 
 ---
