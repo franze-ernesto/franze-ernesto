@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/ernesto-anderson/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ernesto.franzee@gmail.com" target="_blank">
+  <a href="mailto:anderson.ernesto@cs.cruzeirodosul.edu.br" target="_blank">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>  
 </p>
