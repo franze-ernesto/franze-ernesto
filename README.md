@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Me chamo Anderson Ernesto 👋</h1>
 
 <p align="center">
-  Sou desenvolvedor Java, focado em <strong>Back-end</strong>, explorando as boas práticas de desenvolvimento como <em>SOLID</em> e <em>Clean Architecture</em>.
+  Sou graduando em ADS, focado em <strong>Full-stack</strong> e <strong>Back-end</strong>, explorando as boas práticas de desenvolvimento como <em>SOLID</em> e <em>Clean Architecture</em>.
 </p>
 
 <p align="center">
