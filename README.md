@@ -71,7 +71,7 @@ Sou bacharel em Engenharia Elétrica, e encontrei minha verdadeira paixão no de
 
 ## 📘 Estudos e Materiais de Referência
 
-- Cursos realizados na [Alura](https://www.alura.com.br) com foco em Java, Spring Boot, Docker, Git, e boas práticas.
+- Cursos realizados na [Alura](https://cursos.alura.com.br/user/anderson-ernesto) com foco em Java, Spring Boot, Docker, Git, e boas práticas.
 - Leitura de livros técnicos como:
   - *Use a Cabeça! Java* – Kathy Sierra & Bert Bates
   - *Java: Crie Softwares Completos de Forma Rápida e Prática* – Editora Cursa Online Courses
